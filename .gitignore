@@ -3,3 +3,4 @@ __pycache__/
 ollama-models/
 *.py[cod]
 .env
+.DS_Store
